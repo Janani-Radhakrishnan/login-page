@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.log{
+    height: 500px;
+    width: 600px;
+    border: 1px solid black;
+    margin-left: 30%;
+    margin-top: 6%;
+    border-radius: 3%;
+    background-color: snow;
+}
+.log h1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    color: rgba(129, 6, 167, 0.918);
+}
+.un{
+    margin-bottom: 30px;
+    margin-left:100px;
+}
+.un label{
+    margin-right: 10px;
+    font-size: larger;
+    letter-spacing: 1.5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color:rgb(125, 18, 155);
+}
+.un input{
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border-radius: 5%;
+}
+.pw{
+    margin-bottom: 30px;
+    margin-left:100px;
+}
+.pw label{
+    margin-right: 10px;
+    font-size: larger;
+    letter-spacing: 1.5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color:rgb(125, 18, 155);
+}
+.pw input{
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border-radius: 5%;
+}
+button{
+    width: 50%;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: larger;
+    background-color: rgb(131, 51, 197);
+    color:black;
+}
+.fg{
+    margin-left: 30%;
+    margin-top: 10px;
+}

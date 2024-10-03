@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.fp{
+    height: 480px;
+    width: 600px;
+    border: 1px solid black;
+    margin-left: 30%;
+    margin-top: 6%;
+    border-radius: 3%;
+    background-color: snow;
+}
+.fp h1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    color: rgba(129, 6, 167, 0.918);
+}
+.un{
+    margin-bottom: 30px;
+    margin-left:100px;
+}
+.un label{
+    line-height: 3%;
+    margin-right: 65px;
+}
+.un input{
+    padding-left: 8px;
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-bottom:8px;
+    border-radius: 5%;
+}
+.pw{
+    margin-bottom: 30px;
+    margin-left:100px;
+}
+.pw label{
+    line-height: 3%;
+    margin-right: 65px;
+}
+.pw input{
+    padding-left: 8px;
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-bottom:8px;
+    border-radius: 5%;
+}
+.cpw{
+    margin-bottom: 30px;
+    margin-left:100px;
+}
+.cpw label{
+    line-height: 3%;
+    margin-right: 65px;
+}
+.cpw input{
+    padding-left: 8px;
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-bottom:8px;
+    border-radius: 5%;
+}
+.btn button{
+    width: 50%;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: larger;
+    background-color: rgb(131, 51, 197);
+}
+.gb{
+    margin-left: 50%;
+    margin-top: 20px;
+}
